@@ -1,11 +1,14 @@
 **Project Title**
 Learn HTML, CSS, and JavaScript: Build a Landing Page
+
 **Description**
 This project is a landing page created while learning HTML, CSS, and JavaScript.
 The goal is to showcase your skills and create an attractive landing page.
+
 **Usage**
 View the landing page to see how HTML, CSS, and JavaScript work together.
 Customize the content, colors, and styles to match your preferences.
+
 **Technologies Used**
 HTML
 CSS (including SCSS)
